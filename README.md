@@ -2,17 +2,17 @@
 El codigo de un eficiente bot raid del cual codigo hecho por zNetShell, puede usarlo a su gusto y esta en todo su derecho ocuparlo y darle el uso que usted quiera.
 
 # Funciones
-- MD all
+- MD all -
 Envia MD a todos los usuarios.
-- Riad
+- Raid -
 Crea hasta 500 canales con ping masivo.
-- Nuke
+- Nuke -
 Borra todos los canales actuales en el servidor.
-- Foto
+- Foto -
 Cambia la foto y el nombre del servidor.
-- DelRoles
+- DelRoles -
 Borra todos los roles por debajo del rol que tenga el bot.
-- CreateRoles
+- CreateRoles -
 Crea hasta 200 roles nuevos.
 
 # Advertencia
