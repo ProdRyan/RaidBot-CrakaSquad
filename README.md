@@ -15,5 +15,18 @@ Borra todos los roles por debajo del rol que tenga el bot.
 - CreateRoles -
 Crea hasta 200 roles nuevos.
 
+# Instalacion
+
+```
+- npm init
+- npm i discord.js ascii-table
+```
+
+# Una vez tengas esto, continua con esto
+
+```
+- node index.js
+```
+
 # Advertencia
 No soy culpable del mal uso que le den a este codigo, aun que ya se que van a Raidear servidores con esto xD.
