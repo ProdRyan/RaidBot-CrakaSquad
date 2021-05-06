@@ -1,0 +1,15 @@
+{
+  "name": "raid-bot",
+  "version": "1.0.0",
+  "description": "discord bot raid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zNetShell",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.3"
+  }
+}
