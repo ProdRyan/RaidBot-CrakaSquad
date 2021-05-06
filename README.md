@@ -15,6 +15,10 @@ Borra todos los roles por debajo del rol que tenga el bot.
 - CreateRoles -
 Crea hasta 200 roles nuevos.
 
+# Edita
+- Edita el Archivo config.json -> "TOKEN" -> Por el Token de tu Bot o el Bot que quieres que sea Raid.
+- Y tambien "PREFIX" -> Por el Prefix que quieras que tenga.
+
 # Instalacion
 
 ```
