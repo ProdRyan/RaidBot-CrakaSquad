@@ -49,7 +49,7 @@ module.exports = {
           `Use \`${prefix}help\` para obtener informacion sobre algun comando. Por ejemplo: \`${prefix}help raid\`.`
         )
         .setFooter(
-          `Requested by ${message.author.tag}`,
+          `Requerido por ${message.author.tag}`,
           message.author.displayAvatarURL({ dynamic: true })
         )
         .setTimestamp()
