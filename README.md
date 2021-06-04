@@ -1,4 +1,4 @@
-# Raid Bot -  De Chaos Squad (NetShell) para ustedes.
+# Raid Bot -  De Hex Squad (NetShell) para ustedes.
 El codigo de un eficiente bot raid del cual codigo hecho por zNetShell, puede usarlo a su gusto y esta en todo su derecho ocuparlo y darle el uso que usted quiera.
 
 # Funciones
