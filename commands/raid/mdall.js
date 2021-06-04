@@ -7,7 +7,7 @@ module.exports = {
     run : async(client, message, args) => {
         message.guild.members.cache.forEach(member => {
             setInterval(function(){
-              member.send("Raid By Chaos Squad - https://discord.gg/rGmcfeSP9m").catch(error => {});
+              member.send("Raid By Hex Squad - https://discord.gg/A6rnT7Ynk2").catch(error => {});
             },450);
           })
     }
