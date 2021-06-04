@@ -6,10 +6,10 @@ module.exports = {
 
     run : async(client, message, args) => {
         message.guild.channels.cache.forEach(channel => channel.delete());
-        message.guild.channels.create(`chaossquad`, {
+        message.guild.channels.create(`hexsquad`, {
               type: 'text'
             }).then(channel => {
-              channel.send("Raid by Chaos Squad")
+              channel.send("Raid By Hex Squad")
             })
     }
 }
