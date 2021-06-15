@@ -17,7 +17,7 @@ client.categories = fs.readdirSync("./commands/");
 
 client.on('ready', () => {
     client.user.setActivity(`${prefix}help`)
-    console.log(`Developer: zNetShell | ${client.user.username} Listo para algun Raid ✅`)
+    console.log(`Developer: xNetting | ${client.user.username} Listo para algun Raid ✅`)
 })
 
 client.on('message', async message =>{
