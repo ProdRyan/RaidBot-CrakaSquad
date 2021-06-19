@@ -1,4 +1,4 @@
-# Raid Bot -  De Hex Squad (Netting) para ustedes.
+# Raid Bot -  De Craka Squad (Netting) para ustedes.
 El codigo de un eficiente bot raid del cual codigo hecho por xNetting, puede usarlo a su gusto y esta en todo su derecho ocuparlo y darle el uso que usted quiera.
 
 # Funciones
@@ -23,7 +23,7 @@ Crea hasta 200 roles nuevos.
 
 ```
 - npm init
-- npm i discord.js ascii-table
+- npm install
 ```
 
 # Una vez tengas esto, continua con esto
