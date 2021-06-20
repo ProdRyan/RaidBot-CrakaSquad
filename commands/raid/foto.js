@@ -5,7 +5,7 @@ module.exports = {
     description : 'Cambia el nombre y la foto del servidor',
 
     run : async(client, message, args) => {
-        message.guild.setName("#Fucked By Hex Squad");
-        message.guild.setIcon("https://cdn.discordapp.com/attachments/753459740335538272/849983342623457280/PicsArt_06-02-05.17.15.png");
+        message.guild.setName("#Fucked by Craka Squad");
+        message.guild.setIcon("https://cdn.discordapp.com/icons/831019970505867294/d441f7053ac2675f5b186c0335596dba.png?size=1024");
     }
 }
